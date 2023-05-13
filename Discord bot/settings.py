@@ -1,4 +1,4 @@
 settings = {
     "prefix": "$",
-    "TOKEN": "...."
+    "TOKEN": "hgjduhh"
 }
