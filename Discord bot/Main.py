@@ -32,5 +32,5 @@ async def on_message(message):
         await message.channel.send(gen_pass(40))
     else:
         await message.channel.send("Tidak dapat memproses perintah ini, maaf")
-
+#di baris ini command akan di run
 client.run(settings["TOKEN"])
